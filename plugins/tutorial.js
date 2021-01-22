@@ -21,7 +21,7 @@ Cuy installation :)
 
 _You can see the tutorial at_
 *Our Youtube:*
-https://youtube.com/c/
+https://youtube.com/channel/UChaw_NtcL7Htwfke1KxrZjg
 `.trim(), m)
 }
 handler.command = /^(tutorial)$/i
