@@ -1,7 +1,7 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
   conn.reply(m.chat, `
 Tutorial Buat Bot WA:
-Credit: *~mr.ravanan*
+Credit: *~Fazilvj*
 
 Ketik di *[TERMUX]*
 1) $pkg install git
@@ -10,9 +10,9 @@ Ketik di *[TERMUX]*
 4) $pkg install nodejs
 
 
-5) $git clone https://github.com/mrravanan/kannapi-bot.git
+5) $git clone https://github.com/fazilvk786/wbot.git
 6) $ls
-7) $cd kannapi-bot
+7) $cd wbot
 
 the * last * ..
 Cuy installation :)
@@ -21,7 +21,7 @@ Cuy installation :)
 
 _You can see the tutorial at_
 *Our Youtube:*
-https://youtube.com/c/MrRavanan
+https://youtube.com/c/
 `.trim(), m)
 }
 handler.command = /^(tutorial)$/i
