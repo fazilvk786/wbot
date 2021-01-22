@@ -99,8 +99,8 @@ How to Add XP:
 ╠➥ ${_p}mutechat group
 ║
 ╠═〘 ADVERTISEMENT 〙 ═
-╠➥ Instagram: https://instagram.com/__mr_ravanan?igshid=1pnrvego2ur69
-╠➥ YᴏᴜTᴜʙᴇ: https://youtube.com/c/MrRavanan
+╠➥ Instagram: https://instagram.com/mu.fazil_vk
+╠➥ YᴏᴜTᴜʙᴇ: https://youtube.com/channel/UChaw_NtcL7Htwfke1KxrZjg
 ║
 ╠═〘 Info Bot 〙 ═
 ╠➥ Name : ലിജൂട്ടൻ 2.0😁
