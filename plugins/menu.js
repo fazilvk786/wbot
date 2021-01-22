@@ -32,8 +32,8 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
       .replace(/%week/g, week)
       .replace(/%date/g, date)
       .replace(/%time/g, time): `
-🤖 [കണ്ണാപി ബോട്ട് 2.0] 🤖
-Creator: ʀᴀɴᴊɪᴛʜ [ᴍʀ.ʀᴀᴠᴀɴᴀɴ]
+🤖 [ ലിജുട്ടൻ 2.0] 🤖
+Creator: The Ultimate King *MUHAMMED FAZIL VK*
 
 Hi, ${name} 👋
 Exp: ${exp}
@@ -103,14 +103,14 @@ How to Add XP:
 ╠➥ YᴏᴜTᴜʙᴇ: https://youtube.com/c/MrRavanan
 ║
 ╠═〘 Info Bot 〙 ═
-╠➥ Name : കണ്ണാപി ബോട്ട് 2.0
-╠➥ Coded using * Nano * on Android \\ w Termux
-╠➥ Request? wa.me//+919048410619
+╠➥ Name : ലിജൂട്ടൻ 2.0😁
+╠➥ Coded using *Nano* on Android
+╠➥ Request? wa.me//+15185542592
 ╠═════
 ║ Advanced:
 ║  > return m
 ║
-╠═〘 കണ്ണാപി ബോട്ട് 2.0 〙═
+╠═〘 ലിജൂട്ടൻ😁 2.0 〙═
 `.trim()
     conn.reply(m.chat, {...preview, text}, m)
   }
